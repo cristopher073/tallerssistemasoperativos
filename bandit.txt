@@ -188,6 +188,7 @@ ssh bandit32@bandit.labs.overthewire.org -p 2220
 $0
 cat /etc/bandit_pass/bandit33
 
+
 Nivel 33
 ls
 cat README.txt
